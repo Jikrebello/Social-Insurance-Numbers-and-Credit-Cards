@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\bin\Debug\Social Insurance Numbers and Credit Cards.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\bin\Debug\Social Insurance Numbers and Credit Cards.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\bin\Debug\Social Insurance Numbers and Credit Cards.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social Insurance Numbers and Credit Cards.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social_Insurance_Numbers_and_Credit_Cards.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social_Insurance_Numbers_and_Credit_Cards.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social Insurance Numbers and Credit Cards.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social Insurance Numbers and Credit Cards.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social Insurance Numbers and Credit Cards.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Social Insurance Numbers and Credit Cards\obj\Debug\Social Insurance Numbers and Credit Cards.pdb
